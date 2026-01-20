@@ -5,4 +5,4 @@ Hi, my name is Alžběta. I'm 22 years old, and for most of my life I have been 
 
 
 
-![image00187](https://github.com/user-attachments/assets/2bcaadb5-d4a6-4cad-af87-9b911f01e000)
+<img src="https://github.com/user-attachments/assets/2bcaadb5-d4a6-4cad-af87-9b911f01e000" width="300">
