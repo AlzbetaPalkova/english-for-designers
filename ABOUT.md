@@ -6,4 +6,5 @@ Hi, my name is. I'm 22 years old, and for most of my life I have been passionate
 
 
 <img src="https://github.com/user-attachments/assets/2bcaadb5-d4a6-4cad-af87-9b911f01e000" width="300">
- ![IMG_8208](https://github.com/user-attachments/assets/d72ecc5e-2dcb-450a-a51f-e32b1f2bb7a6)
+
+<img src="https://github.com/user-attachments/assets/3dd3fab7-b319-4041-a1ae-b5eab578ecfb" width="300">
