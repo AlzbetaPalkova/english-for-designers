@@ -3,7 +3,7 @@
 
 # my versions
 Letter W combining old english font and calligraffiti. This combination gives the letter a unique expression.
-#
+
 This letter is capturing combination of classical old english font and modern calligraffitti elemets that together makes an unique glyph.
 # ai versions
 Alt text 1:
