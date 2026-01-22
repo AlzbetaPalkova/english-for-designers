@@ -12,3 +12,6 @@ Alt text 2:
 Vectorized calligraffiti letter W with bold black strokes, combining traditional Old English influences with modern expressive form.
 # final
 Expressive calligraffiti letter W blending classical Old English forms with modern visual energy.
+
+# dropcap design
+<img width="1552" height="390" alt="03-dropcap-letter-W" src="https://github.com/user-attachments/assets/0a1a110a-e507-4e49-82e6-01ee4aab0057" />
