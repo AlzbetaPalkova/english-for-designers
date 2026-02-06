@@ -11,4 +11,5 @@ Hello. My name is Alžběta Pálková and this folder is an archive of my work f
 [Alt text](ALT-TEXT.md)
 
  #####
-[View business cards](business-cards.md)
+ [View business card design here](business-cards.md)
+
