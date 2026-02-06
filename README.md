@@ -6,15 +6,14 @@ Hello. My name is Alžběta Pálková and this folder is an archive of my work f
 
 ## HW
 [Bespoke character from the modern English alphabet](BESPOKE.md) 
-###
+
 ####
 [Alt text](ALT-TEXT.md)
 
- #####
- [View business card design here](business-cards.md)
+#####
+[View business card design here](business-cards.md)
 
 ######
-
 [View AJ2 Assignment](aj2.md)
 
 [Hand Shake](handshake.md)
