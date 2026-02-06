@@ -17,3 +17,6 @@ Hello. My name is Alžběta Pálková and this folder is an archive of my work f
 
 [View AJ2 Assignment](aj2.md)
 
+[Hand Shake](handshake.md)
+
+
