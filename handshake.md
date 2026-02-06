@@ -8,4 +8,5 @@ I see myself not only as a graphic designer, but as an overall creative person w
 # ---
 
 Hi, im Alžběta and my purpose is to help you with your personal design dreams.
+##
 Hello im Alžběta, don’t pay for ai - pay me instead. I’ll do a better job. Just trust the process.
