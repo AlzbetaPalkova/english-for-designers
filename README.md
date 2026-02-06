@@ -18,7 +18,8 @@ Hello. My name is Alžběta Pálková and this folder is an archive of my work f
 
 [Hand Shake](handshake.md)
 
-#######
+######
+
 [Metadata & Preview Images](metadata.md)
 
 
