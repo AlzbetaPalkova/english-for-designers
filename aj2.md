@@ -1,6 +1,9 @@
 # AJ2 Assignment
 
-[Click here to view AJ2 PDF](files/aj2.pdf)
+Click the link below to view the PDF:
+
+[View AJ2 PDF](aj2.pdf)
+
 
 
 
