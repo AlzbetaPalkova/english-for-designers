@@ -12,3 +12,9 @@ Hello. My name is Alžběta Pálková and this folder is an archive of my work f
 
  #####
 
+<h2 align="center">Business Card</h2>
+
+<p align="center">
+  <img src="./business-card-1.AJ26.png" width="420">
+  <img src="./business-card-2.AJ26.png" width="420">
+</p>
