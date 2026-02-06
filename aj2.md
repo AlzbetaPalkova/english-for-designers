@@ -1,3 +1,3 @@
-# AJ2 PDF
+# AJ2 Assignment
 
-[Click here to view or download AJ2 PDF](files/aj2.pdf)
+![AJ2 PDF](files/aj2.pdf)
