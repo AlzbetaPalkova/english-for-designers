@@ -1,10 +1,9 @@
-# Business Cards
+# Business Card Design
 
-## Front
+## Front side
+![Business card front](./images/business-card-1.AJ26.png)
 
-![Business cards](images/business-card-1.AJ26.png)
+## Back side
+![Business card back](./images/business-card-2.AJ26.png)
 
-## Back
-
-![Business cards](images/business-card-2.AJ26.png)
 
