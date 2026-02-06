@@ -14,4 +14,4 @@ Hello. My name is Alžběta Pálková and this folder is an archive of my work f
  [View business card design here](business-cards.md)
 
 ######
-[View AJ2 PDF](aj2.md)
+[View AJ2 Assignment](aj2.md)
